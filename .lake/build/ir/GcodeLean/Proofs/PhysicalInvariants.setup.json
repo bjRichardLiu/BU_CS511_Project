@@ -1,0 +1,14 @@
+{"plugins": [],
+ "options": {},
+ "name": "GcodeLean.Proofs.PhysicalInvariants",
+ "isModule": false,
+ "importArts":
+ {"GcodeLean.Step":
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/Step.olean"],
+  "GcodeLean.State":
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/State.olean"],
+  "GcodeLean.Config":
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/Config.olean"],
+  "GcodeLean.AST":
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/AST.olean"]},
+ "dynlibs": []}

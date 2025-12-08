@@ -1,0 +1,32 @@
+{"synthetic": false,
+ "outputs":
+ {"o": ["4697314472207488406"],
+  "i": "592896812808164255",
+  "c": "7868710779421556043"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean /Users/liuruichen/.elan/toolchains/leanprover--lean4---v4.23.0/bin/lean /Users/liuruichen/Developer/2025/BU_CS511_Project/GcodeLean/Proofs/CoordsInvariants.lean -o /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/Proofs/CoordsInvariants.olean -i /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/Proofs/CoordsInvariants.ilean -c /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/ir/GcodeLean/Proofs/CoordsInvariants.c --setup /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/ir/GcodeLean/Proofs/CoordsInvariants.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["GcodeLean.Proofs.CoordsInvariants:deps",
+   [["deps",
+     [["«gcode-lean»/GcodeLean:extraDep", [["@«gcode-lean»:extraDep", "1723"]]],
+      ["imports",
+       [["GcodeLean.AST transitive imports (legacy)", "1723"],
+        ["GcodeLean.AST:importAllArts", "10453382196115364115"],
+        ["GcodeLean.State transitive imports (legacy)", "3785649259890995299"],
+        ["GcodeLean.State:importAllArts", "17411130177194012805"],
+        ["GcodeLean.Step transitive imports (legacy)", "2456873284314444366"],
+        ["GcodeLean.Step:importAllArts", "5082421987280037372"]]]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.23.0, commit 50aaf682e9b74ab92880292a25c68baa1cc81c87",
+   "5786258275165720599"],
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/GcodeLean/Proofs/CoordsInvariants.lean",
+   "6291316969001941686"],
+  ["options", "1723"],
+  ["Module.leanArgs: #[]", "1723"]],
+ "depHash": "8629917561092143168"}

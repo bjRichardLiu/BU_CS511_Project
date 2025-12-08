@@ -1,0 +1,28 @@
+{"synthetic": false,
+ "outputs":
+ {"o": ["18230126342095341378"],
+  "i": "2923647105298262983",
+  "c": "6499855676838373159"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean /Users/liuruichen/.elan/toolchains/leanprover--lean4---v4.23.0/bin/lean /Users/liuruichen/Developer/2025/BU_CS511_Project/GcodeLean/State.lean -o /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/State.olean -i /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/State.ilean -c /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/ir/GcodeLean/State.c --setup /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/ir/GcodeLean/State.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["GcodeLean.State:deps",
+   [["deps",
+     [["«gcode-lean»/GcodeLean:extraDep", [["@«gcode-lean»:extraDep", "1723"]]],
+      ["imports",
+       [["GcodeLean.Config transitive imports (legacy)", "1723"],
+        ["GcodeLean.Config:importAllArts", "6015159631913643587"]]]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.23.0, commit 50aaf682e9b74ab92880292a25c68baa1cc81c87",
+   "5786258275165720599"],
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/GcodeLean/State.lean",
+   "12146791022791978349"],
+  ["options", "1723"],
+  ["Module.leanArgs: #[]", "1723"]],
+ "depHash": "17625200897687758148"}

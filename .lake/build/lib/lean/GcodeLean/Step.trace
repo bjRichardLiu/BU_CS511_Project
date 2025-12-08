@@ -1,0 +1,30 @@
+{"synthetic": false,
+ "outputs":
+ {"o": ["6240824564255349542"],
+  "i": "4206844040884983106",
+  "c": "8673545074481833710"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean /Users/liuruichen/.elan/toolchains/leanprover--lean4---v4.23.0/bin/lean /Users/liuruichen/Developer/2025/BU_CS511_Project/GcodeLean/Step.lean -o /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/Step.olean -i /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/lib/lean/GcodeLean/Step.ilean -c /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/ir/GcodeLean/Step.c --setup /Users/liuruichen/Developer/2025/BU_CS511_Project/.lake/build/ir/GcodeLean/Step.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["GcodeLean.Step:deps",
+   [["deps",
+     [["«gcode-lean»/GcodeLean:extraDep", [["@«gcode-lean»:extraDep", "1723"]]],
+      ["imports",
+       [["GcodeLean.AST transitive imports (legacy)", "1723"],
+        ["GcodeLean.AST:importAllArts", "10453382196115364115"],
+        ["GcodeLean.State transitive imports (legacy)", "3785649259890995299"],
+        ["GcodeLean.State:importAllArts", "17411130177194012805"]]]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.23.0, commit 50aaf682e9b74ab92880292a25c68baa1cc81c87",
+   "5786258275165720599"],
+  ["/Users/liuruichen/Developer/2025/BU_CS511_Project/GcodeLean/Step.lean",
+   "11123041907217251076"],
+  ["options", "1723"],
+  ["Module.leanArgs: #[]", "1723"]],
+ "depHash": "3398538271596540305"}
